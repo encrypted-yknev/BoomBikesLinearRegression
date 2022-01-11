@@ -11,4 +11,4 @@
 - PDF containing solutions to subjective questions
 
 ## Contact
-Created by [@encrypted-yknev] - feel free to contact me!
+Created by [@encrypted-yknev](https://github.com/encrypted-yknev) - feel free to contact me!
